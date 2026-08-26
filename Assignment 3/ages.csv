@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,Occupation,AnnualIncome
+C001,Ankit Shah,17,Male,Student,120000
+C002,Neha Verma,21,Female,Student,180000
+C003,Rahul Khanna,26,Male,Engineer,500000
+C004,Priya Desai,34,Female,Teacher,420000
+C005,Manoj Mehta,39,Male,Doctor,720000
+C006,Swati Kapoor,45,Female,Manager,850000
+C007,Anirudh Yadav,52,Male,Lawyer,950000
+C008,Shruti Rane,58,Female,HR Manager,700000
+C009,Naveen Shetty,63,Male,Retired,350000
+C010,Asha Rao,68,Female,Retired,300000
+C011,Rakesh Kumar,19,Male,Intern,150000
+C012,Tanya Singh,24,Female,Software Engineer,600000
+C013,Yogesh Jain,29,Male,Marketing Executive,400000
+C014,Nikita Joshi,33,Female,Analyst,500000
+C015,Vishal Bhat,41,Male,Sales Manager,750000
+C016,Ira Banerjee,49,Female,Data Scientist,980000
+C017,Kunal Rathi,55,Male,Accountant,620000
+C018,Reema Malik,61,Female,Consultant,800000
+C019,Amit Thakur,66,Male,Retired,290000
+C020,Divya Ghosh,70,Female,Retired,250000

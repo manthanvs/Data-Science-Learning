@@ -1,0 +1,23 @@
+# Python virtual environment (this repository is currently stored inside one)
+/Include/
+/Lib/
+/Scripts/
+/share/
+pyvenv.cfg
+
+# Jupyter and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local scratch work and untracked source datasets
+/Datasets/
+/New.ipynb
+/Practise.ipynb

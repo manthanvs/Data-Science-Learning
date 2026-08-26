@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Item,Quantity,UnitPrice,Date
+C001,Ankit Shah,Wireless Mouse,2,750,2024-01-05
+C002,Neha Verma,Laptop Backpack,1,1850,2024-01-08
+C003,Rahul Khanna,USB-C Charger,3,650,2024-01-09
+C004,Priya Desai,Smartphone,1,22000,2024-01-10
+C005,Manoj Mehta,Keyboard,2,1200,2024-01-11
+C006,Swati Kapoor,Headphones,1,3500,2024-01-11
+C007,Anirudh Yadav,Webcam,1,2500,2024-01-12
+C008,Shruti Rane,Wireless Router,2,1800,2024-01-13
+C009,Naveen Shetty,Pen Drive,5,500,2024-01-14
+C010,Asha Rao,External HDD,1,6000,2024-01-15
+C011,Rakesh Kumar,Monitor,1,12500,2024-01-16
+C012,Tanya Singh,HDMI Cable,3,300,2024-01-16
+C013,Yogesh Jain,Smartwatch,1,9500,2024-01-17
+C014,Nikita Joshi,Tablet,1,18000,2024-01-18
+C015,Vishal Bhat,Power Bank,2,1600,2024-01-18
+C016,Ira Banerjee,Laptop Stand,1,2200,2024-01-19
+C017,Kunal Rathi,Speaker,2,3200,2024-01-19
+C018,Reema Malik,Stylus Pen,1,1100,2024-01-20
+C019,Amit Thakur,Mouse Pad,3,250,2024-01-20
+C020,Divya Ghosh,Printer,1,14500,2024-01-21

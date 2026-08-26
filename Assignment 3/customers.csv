@@ -1,0 +1,21 @@
+CustomerID,Name,Gender,Age,City,MembershipType
+C001,Aarav Sharma,Male,28,Mumbai,Gold
+C002,Diya Mehta,Female,34,Delhi,Silver
+C003,Rohan Verma,Male,22,Bangalore,Platinum
+C004,Ananya Rao,Female,45,Hyderabad,Gold
+C005,Karan Singh,Male,38,Pune,Silver
+C006,Isha Kapoor,Female,29,Kolkata,Gold
+C007,Aman Joshi,Male,31,Chennai,Silver
+C008,Meera Das,Female,26,Ahmedabad,Platinum
+C009,Vikram Patel,Male,52,Surat,Gold
+C010,Nidhi Roy,Female,41,Jaipur,Silver
+C011,Sameer Khan,Male,35,Noida,Platinum
+C012,Priya Nair,Female,30,Coimbatore,Gold
+C013,Sachin Gupta,Male,27,Nagpur,Silver
+C014,Kavya Reddy,Female,23,Indore,Platinum
+C015,Yash Deshmukh,Male,46,Bhopal,Gold
+C016,Simran Kaur,Female,32,Ludhiana,Silver
+C017,Arjun Pandey,Male,39,Patna,Platinum
+C018,Tanya Bhatt,Female,25,Thane,Gold
+C019,Naveen Dube,Male,43,Vadodara,Silver
+C020,Ritika Jain,Female,37,Ranchi,Gold

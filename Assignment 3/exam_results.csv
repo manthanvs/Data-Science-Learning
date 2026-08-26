@@ -1,0 +1,21 @@
+StudentID,Name,Subject,Score,Grade,Remarks
+201,Arjun,Maths,88,A,Excellent
+202,Neha,English,,B,Good
+203,Rahul,Science,75,B,Fair
+204,Isha,,68,C,Needs Improvement
+205,Kunal,Maths,92,A,Excellent
+206,Priya,English,85,B,Good
+207,Sachin,Science,,B,Fair
+208,Aarti,Maths,78,,Average
+209,Harsh,English,81,B,Good
+210,Nikita,Science,90,A,Excellent
+211,Manoj,Maths,84,B,Good
+212,Komal,English,76,C,Fair
+213,Siddharth,Science,69,C,Needs Improvement
+214,Megha,Maths,88,A,Excellent
+215,Tarun,English,,B,Fair
+216,Naina,Science,80,B,Good
+217,Vishal,,85,A,Excellent
+218,Trisha,English,89,A,Excellent
+219,Nitesh,Maths,90,A,Excellent
+220,Rekha,Science,,C,Fair

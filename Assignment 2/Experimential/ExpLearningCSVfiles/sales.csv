@@ -1,0 +1,11 @@
+region,product,sales
+North,Laptop,50000
+North,Mobile,30000
+South,Laptop,45000
+South,Mobile,35000
+East,Laptop,40000
+East,Mobile,28000
+West,Laptop,55000
+West,Mobile,32000
+North,Laptop,25000
+South,Mobile,15000

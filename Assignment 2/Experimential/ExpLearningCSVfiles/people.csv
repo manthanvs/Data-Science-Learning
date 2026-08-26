@@ -1,0 +1,21 @@
+id,name,gender,age,city,department,salary,experience
+101,Rahul Sharma,Male,22,Pune,IT,45000,1
+102,Priya Patil,Female,24,Mumbai,HR,52000,2
+103,Amit Joshi,Male,27,Nashik,IT,65000,4
+104,Sneha Kulkarni,Female,30,Nagpur,Finance,72000,6
+105,Rohit Deshmukh,Male,26,Aurangabad,Sales,55000,3
+106,Pooja More,Female,29,Kolhapur,Marketing,68000,5
+107,Neha Jadhav,Female,23,Satara,HR,48000,2
+108,Vikas Shinde,Male,35,Pune,IT,85000,10
+109,Karan Pawar,Male,31,Solapur,Finance,76000,7
+110,Anjali Patil,Female,28,Mumbai,Marketing,63000,4
+111,Sachin Mane,Male,33,Pune,Sales,71000,8
+112,Kavita Joshi,Female,25,Nashik,IT,58000,3
+113,Aditya Kulkarni,Male,27,Nagpur,Marketing,62000,4
+114,Riya Shah,Female,24,Aurangabad,HR,50000,2
+115,Omkar Patil,Male,36,Pune,Finance,90000,12
+116,Meera Desai,Female,32,Mumbai,IT,80000,8
+117,Nikhil Jadhav,Male,29,Kolhapur,Sales,67000,5
+118,Aishwarya More,Female,26,Satara,Marketing,59000,3
+119,Abhishek Shinde,Male,34,Nashik,IT,87000,9
+120,Shruti Pawar,Female,28,Pune,HR,61000,5

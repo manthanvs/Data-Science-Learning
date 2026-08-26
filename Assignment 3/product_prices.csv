@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Brand,UnitPrice,Discount,Stock
+P001,Smartphone X100,Electronics,BrandA,25000,10,50
+P002,Laptop Pro 14,Electronics,BrandB,750000,15,30
+P003,Wireless Mouse,Accessories,BrandC,800,5,120
+P004,"LED Monitor 24""",Electronics,BrandA,12000,10,40
+P005,Office Chair,Furniture,BrandD,5000,8,60
+P006,Bookshelf,Furniture,BrandD,3500,5,70
+P007,Air Conditioner,Home Appliances,BrandE,30000,20,15
+P008,Refrigerator 260L,Home Appliances,BrandE,28000,18,20
+P009,Blender Pro,Kitchen,BrandF,2200,12,55
+P010,Microwave Oven,Kitchen,BrandF,9500,10,35
+P011,Smartwatch Z,Electronics,BrandG,7000,25,45
+P012,Bluetooth Speaker,Accessories,BrandC,1800,15,90
+P013,"Tablet 10.1""",Electronics,BrandB,18000,20,28
+P014,DSL Camera M5,Electronics,BrandH,999999,30,12
+P015,Gaming Console,Electronics,BrandI,40000,5,25
+P016,Ceiling Fan,Home Appliances,BrandJ,3500,8,80
+P017,Study Table,Furniture,BrandD,6200,10,50
+P018,Laptop Backpack,Accessories,BrandC,1500,10,100
+P019,Vacuum Cleaner,Home Appliances,BrandE,8500,15,45
+P020,Electric Kettle,Kitchen,BrandF,1200,5,60
