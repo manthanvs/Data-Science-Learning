@@ -1,0 +1,150 @@
+{
+  "cv_baseline": [
+    {
+      "Model": "Logistic Regression",
+      "Train accuracy": 0.989,
+      "CV accuracy": "0.978 \u00b1 0.010",
+      "CV F1 (malignant)": "0.970 \u00b1 0.013",
+      "CV recall (malignant)": "0.965 \u00b1 0.029"
+    },
+    {
+      "Model": "Decision Tree",
+      "Train accuracy": 1.0,
+      "CV accuracy": "0.916 \u00b1 0.018",
+      "CV F1 (malignant)": "0.892 \u00b1 0.024",
+      "CV recall (malignant)": "0.924 \u00b1 0.035"
+    },
+    {
+      "Model": "Random Forest",
+      "Train accuracy": 1.0,
+      "CV accuracy": "0.963 \u00b1 0.018",
+      "CV F1 (malignant)": "0.951 \u00b1 0.023",
+      "CV recall (malignant)": "0.959 \u00b1 0.030"
+    },
+    {
+      "Model": "SVM",
+      "Train accuracy": 0.985,
+      "CV accuracy": "0.969 \u00b1 0.015",
+      "CV F1 (malignant)": "0.958 \u00b1 0.021",
+      "CV recall (malignant)": "0.953 \u00b1 0.040"
+    }
+  ],
+  "tuning": [
+    {
+      "Model": "Logistic Regression",
+      "Combinations": 10,
+      "Best parameters": "{'C': 0.1, 'class_weight': None}",
+      "Baseline CV F1": 0.9703,
+      "Tuned CV F1": 0.976,
+      "Gain": 0.0057
+    },
+    {
+      "Model": "Decision Tree",
+      "Combinations": 56,
+      "Best parameters": "{'criterion': 'entropy', 'max_depth': 4, 'min_samples_leaf': 5}",
+      "Baseline CV F1": 0.8919,
+      "Tuned CV F1": 0.9174,
+      "Gain": 0.0255
+    },
+    {
+      "Model": "Random Forest",
+      "Combinations": 36,
+      "Best parameters": "{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 300}",
+      "Baseline CV F1": 0.9506,
+      "Tuned CV F1": 0.9533,
+      "Gain": 0.0027
+    },
+    {
+      "Model": "SVM",
+      "Combinations": 16,
+      "Best parameters": "{'C': 10, 'gamma': 0.01}",
+      "Baseline CV F1": 0.9583,
+      "Tuned CV F1": 0.9668,
+      "Gain": 0.0085
+    }
+  ],
+  "test_baseline": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9824561403508771,
+      "Precision": 0.9761904761904762,
+      "Recall": 0.9761904761904762,
+      "F1-Score": 0.9761904761904762,
+      "ROC-AUC": 0.9953703703703705,
+      "Missed malignant (FN)": 1,
+      "False alarms (FP)": 1
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.9122807017543859,
+      "Precision": 0.8478260869565217,
+      "Recall": 0.9285714285714286,
+      "F1-Score": 0.8863636363636364,
+      "ROC-AUC": 0.9156746031746031,
+      "Missed malignant (FN)": 3,
+      "False alarms (FP)": 7
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.956140350877193,
+      "Precision": 0.9512195121951219,
+      "Recall": 0.9285714285714286,
+      "F1-Score": 0.9397590361445783,
+      "ROC-AUC": 0.9937169312169312,
+      "Missed malignant (FN)": 3,
+      "False alarms (FP)": 2
+    },
+    {
+      "Model": "SVM",
+      "Accuracy": 0.9824561403508771,
+      "Precision": 0.9761904761904762,
+      "Recall": 0.9761904761904762,
+      "F1-Score": 0.9761904761904762,
+      "ROC-AUC": 0.9950396825396826,
+      "Missed malignant (FN)": 1,
+      "False alarms (FP)": 1
+    }
+  ],
+  "test_tuned": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9736842105263158,
+      "Precision": 0.975609756097561,
+      "Recall": 0.9523809523809523,
+      "F1-Score": 0.963855421686747,
+      "ROC-AUC": 0.9957010582010583,
+      "Missed malignant (FN)": 2,
+      "False alarms (FP)": 1
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.8771929824561403,
+      "Precision": 0.78,
+      "Recall": 0.9285714285714286,
+      "F1-Score": 0.8478260869565217,
+      "ROC-AUC": 0.959325396825397,
+      "Missed malignant (FN)": 3,
+      "False alarms (FP)": 11
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.9473684210526315,
+      "Precision": 0.9285714285714286,
+      "Recall": 0.9285714285714286,
+      "F1-Score": 0.9285714285714286,
+      "ROC-AUC": 0.9937169312169312,
+      "Missed malignant (FN)": 3,
+      "False alarms (FP)": 3
+    },
+    {
+      "Model": "SVM",
+      "Accuracy": 0.9824561403508771,
+      "Precision": 0.9761904761904762,
+      "Recall": 0.9761904761904762,
+      "F1-Score": 0.9761904761904762,
+      "ROC-AUC": 0.9976851851851852,
+      "Missed malignant (FN)": 1,
+      "False alarms (FP)": 1
+    }
+  ]
+}
