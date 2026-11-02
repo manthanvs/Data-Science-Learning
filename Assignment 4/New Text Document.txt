@@ -1,0 +1,76 @@
+Assignment: 04
+
+1) Assignments based on Supervised Learning - Regression and Classification algorithms [C04]
+
+Perform the following steps:
+
+Data Preprocessing:
+
+Load the dataset and inspect the first few rows.
+
+Handle missing values if necessary.
+
+Perform feature scaling/normalization on numerical features.
+
+Train/Test Split:
+
+Split the data into training and testing sets (80% training, 20% testing).
+
+Linear Regression Model:
+
+Implement linear regression using scikit-learn.
+
+Train the model on the training data.
+
+Make predictions on the test set.
+
+Model Evaluation:
+
+Use metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared to evaluate the model.
+
+a) Implement a linear regression model to predict house prices based on various features: Use the "California Housing" dataset (or similar) which contains features like median income, housing_median_age, total_rooms, etc.
+
+(URL: https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+
+b) Implement a linear regression model to predict car prices based on various features such as engine size, horsepower, curb weight, etc.: Use the "Automobile" dataset, which contains various features related to cars and their prices. You can get this dataset
+
+from the UCI Machine Learning Repository. (URL: https://www.kaggle.com/datasets/toramky/automobile-dataset)
+
+
+2) Assignments based on Supervised Learning - Regression and Classification algorithms [CO4]
+
+Perform the following steps:
+
+Data Preprocessing:
+
+Load the dataset and inspect the first few rows.
+
+Handle missing values if necessary.
+
+Convert categorical features to numeric using one-hot encoding or label
+
+encoding.
+
+Train/Test Split:
+
+Split the data into training and testing sets (80% training, 20% testing).
+
+Decision Tree Model:
+
+Implement a decision tree using scikit-learn.
+
+Train the model on the training data.
+
+Make predictions on the test set.
+
+Model Evaluation:
+
+Evaluate the model using metrics such as accuracy, precision, recall, and F1-score.
+
+a) Implement a logistic regression model to predict whether a person has diabetes based on various health features: Use the "Pima Indians Diabetes" dataset, which contains features like Pregnancies, Glucose, BloodPressure, etc.
+
+(URL: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+b) Build a decision tree classifier to predict whether a person survives or not based on Titanic dataset features: Use the "Titanic" dataset which contains features like Pclass, Age, Sex, etc.
+
+(URL: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)

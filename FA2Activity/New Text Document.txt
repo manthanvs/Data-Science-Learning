@@ -1,0 +1,62 @@
+Advanced Data Science - Formative Assessment-02-Case Study Submissions
+Department: MCA
+Academic Year: 2026 2027
+Semester: 1
+Year: SYMCA
+Course: Advanced Data Science [MCA33PE17]
+FA2-Data Analysis Case Study
+Assignment Date: 04/09/2026
+Date of Submission: 01/10/2026
+Syllabus Portion for FA2 Activity: Unit-1 To Unit-4
+Max. Marks: 20
+Case Study: Data Analysis Using Machine Learning & Streamlit App Deployment
+[CO: 1 To 4]
+The goal of this case study is for students to independently apply their knowledge of machine learning algorithms to a real-world problem. You will select a dataset of your choice, perform a complete machine learning workflow, and then deploy a simple, interactive web application using Streamlit to showcase your models.
+Problem Statement:
+Choose a dataset from a public repository such as Kaggle, UCI Machine Learning Repository, or another trusted source. The dataset should be suitable for a regression, classification, or clustering task. Discuss the source of datasets with Course Teacher before implementation. You are required to:
+1. Select at least four (4) distinct machine learning algorithms from the following list:
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forest
+Support Vector Machines
+Naive Bayes
+ok-Nearest Neighbors (k-NN)
+K-Means Clustering
+2. Apply either K-Fold Cross-Validation or GridSearchCV to at least one of your chosen models to improve its performance.
+3. Develop a web application using Streamlit that allows a user to interact with your trained models to generate predictions.
+Part 1: Data Acquisition & Preprocessing [05 Marks]
+Dataset Selection: Identify and describe the dataset you have chosen. Provide a brief overview of the data and the problem you are trying to solve.
+Data Loading:
+Load the dataset and inspect the first few rows.
+Exploratory Data Analysis (EDA):
+Perform an initial analysis of the data. Visualize key features and relationships between variables.
+Summarize your findings and any challenges or insights you have gathered from the data.
+Data Preprocessing:
+Handle any missing values.
+Convert categorical features to numeric using techniques like one-hot encoding or label encoding.
+Perform feature scaling or normalization if required by your chosen algorithms.
+Train/Test Split: Split your data into training and testing sets (e.g., 80% training, 20% testing).
+Part 2: Model Implementation & Evaluation [05 Marks]
+.
+Model Implementation: Implement your chosen machine learning algorithms using scikit-learn.
+Model Training: Train each model on the preprocessed training data.
+Model Evaluation:
+Evaluate each model's performance using appropriate metrics (c.g., accuracy, precision, recall, F1-score for classification; mean squared error or R² for regression).
+Generate and display the confusion matrix and classification report for classification models.
+Hyperparameter Tuning & Cross-Validation:
+For at least one of your models, implement GridSearchCV to find the optimal hyperparameters.
+Alternatively, use a cross-validation strategy like K-Fold to evaluate the model's stability.
+Report the results of your tuning/cross-validation, including the best parameters found and the resulting score.
+Part 3: Model Deployment using Streamlit [05 Marks]
+.
+Build and deploy a simple web app that uses all the machine learning models implemented in Part 2 to make predictions.
+Use the Python streamlit library and perform the following steps:
+1. Model Preparation: Choose your previously trained models and save them using pickle or joblib for each model.
+2. Streamlit App: Create a Python script (app.py) that loads the saved models.
+3. User Interface: Use Streamlit widgets (st.slider, st.button, st.selectbox, etc.) to create an input form for users to enter feature values.
+4. Prediction: When the user clicks 'Predict, the app should use their input to generate a prediction and display the result in a clear, user-friendly format.
+Part 4: Submit the following (3 files). [05 Marks]
+1. A Jupyter Notebook or Python script with all your code for Part 1 and Part 2, including comments.(.ipynb file)
+2. The app.py script for your Streamlit application. (Part 3)
+3. A brief report (PDF file) summarizing your findings, model comparisons, insights and deployed Streamlit app live link from the case study.
